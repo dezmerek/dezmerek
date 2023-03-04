@@ -1,6 +1,4 @@
-<div align="center">
-![github-header-image (2)](https://user-images.githubusercontent.com/18598456/222873163-816cad52-9c08-477d-824f-5dcdbd8b3024.png)
-</div>  
+<img src="https://user-images.githubusercontent.com/18598456/222873163-816cad52-9c08-477d-824f-5dcdbd8b3024.png" align="center" style="width: 100%" />
 
 ## Connect with me  
 <a href="https://github.com/dezmerek" target="_blank">
