@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/18598456/222873964-668499fd-986e-4060-b521-3f439fe81bca.png" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/18598456/222874754-f01104cb-f3a7-4923-a8f2-39c438f45039.gif" align="center" style="width: 100%" />
 
 ## Connect with me  
 <a href="https://github.com/dezmerek" target="_blank">
