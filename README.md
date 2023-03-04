@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 600px" />
+![github-header-image (2)](https://user-images.githubusercontent.com/18598456/222873163-816cad52-9c08-477d-824f-5dcdbd8b3024.png)
 </div>  
 
 ## Connect with me  
