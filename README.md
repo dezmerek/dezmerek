@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/18598456/222874754-f01104cb-f3a7-4923-a8f2-39c438f45039.gif" align="center" style="width: 100%" />
-
-## Connect with me  
+<img src="https://user-images.githubusercontent.com/18598456/222874804-740cbd86-5be4-4ace-98b4-e88bc8d3e555.gif" align="center" style="width: 100%" />
+ 
 <a href="https://github.com/dezmerek" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
